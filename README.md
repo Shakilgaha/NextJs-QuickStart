@@ -52,6 +52,7 @@ Ensure you have **Node.js (v18.x or later)** and **npm** (or yarn/pnpm) installe
 ### 2. Installation
 Clone the repository and install the project dependencies:
 ```bash
+rm -rf node_modules package-lock.json
 npm install
 ```
 
